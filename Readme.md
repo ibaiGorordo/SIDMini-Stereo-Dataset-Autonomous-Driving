@@ -12,9 +12,11 @@ This dataset tries to fill the gap with having stereo data for inference and tes
 The original SID dataset is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ## Dataset
+ - Zed camera mounted on a car
  - Rectified stereo images
  - 20 fps
  - 1280x720 resolution
+ - Within the grounds of the University of Michigan-Dearborn campus.
 
 The dataset contains 3 recordings from the SID dataset. Each recording contains 2 videos (left and right) and 2 images (left and right). The recordings are:
  - [Campus_CCW_Clear_Day_002](Campus_CCW_Clear_Day_002): A clear day recording from the campus dataset.
