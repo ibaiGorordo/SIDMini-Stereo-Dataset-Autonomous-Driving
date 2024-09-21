@@ -29,3 +29,4 @@ The dataset contains 3 recordings from the SID dataset. Each recording contains 
 ## Reference
 - SID dataset paper: https://arxiv.org/abs/2407.04908
 - SID dataset: https://deepblue.lib.umich.edu/data/concern/data_sets/cc08hg37c?locale=en
+- Camera datasheet?: https://www.mybotshop.de/Datasheet/zed-camera-datasheet.pdf
