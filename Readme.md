@@ -1,4 +1,4 @@
-# SID Mini - A subset of SID dataset for inference examples
+# SID Mini - A subset of the SID dataset for inference examples
 
 This repository contains a subset (3 recordings) of the SID - Stereo Image Dataset for Autonomous Driving in Adverse Conditions dataset recorded into video. 
 
